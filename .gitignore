@@ -1,0 +1,147 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+*.xcuserstate
+IDEWorkspaceChecks.plist
+WorkspaceSettings.xcsettings
+
+## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
+*.xcscmblueprint
+*.xccheckout
+
+## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+#
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+
+# Carthage
+#
+Carthage/Build/
+Carthage/Checkouts
+
+# fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+fastlane/FastlaneRunner
+fastlane/derived_data
+fastlane/.env*
+fastlane/README.md
+
+# Code Injection
+#
+iOSInjectionProject/
+
+# R.swift
+*.generated.swift
+
+# Sensitive Information - API Keys and Credentials
+#
+# Firebase
+Forkly-v2/GoogleService-Info.plist
+GoogleService-Info.plist
+**/GoogleService-Info.plist
+
+# API Keys
+Forkly-v2/Utilities/ApiKeys.swift
+**/ApiKeys.swift
+**/Keys.swift
+**/Secrets.swift
+**/Credentials.swift
+**/Configuration.swift
+**/Config.swift
+**/AuthConfig.swift
+
+# Certificates and Provisioning Profiles
+*.p12
+*.mobileprovision
+*.cer
+*.certSigningRequest
+*.key
+*.pem
+*.srl
+*.crt
+
+# Environment files
+.env
+.env.*
+*.env.swift
+.netrc
+
+# Backup and temporary files
+*.bak
+*.bak.*
+*.swp
+*~
+.DS_Store
+*.orig
+*.temp
+temp/
+tmp/
+sensitive_backup/
+
+# IDE files
+.idea/
+.vscode/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# Generated files
+DerivedData/
+build/
+.scannerwork/
+compile_commands.json
+
+# Debug logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# User-specific files
+UserInterfaceState.xcuserstate
+xcuserdata/
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+UserInterface.xcuserstate 
