@@ -32,33 +32,33 @@ This evolution represents a significant step forward in both functionality and c
 The `Screenshots` directory contains images of the app in action. These screenshots showcase the main features of Forkly:
 
 <div align="center">
-  <h3>Featured Recipes</h3>
-  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2019.55.19.png" width="250" alt="Featured Recipes Screen">
-  <p>The Featured Recipes screen displays a curated selection of recipes for users to explore.</p>
-  
-  <h3>Recipe Details</h3>
-  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2019.55.59.png" width="250" alt="Recipe Detail View">
-  <p>The Recipe Detail view provides comprehensive information about a recipe.</p>
-  
-  <h3>Search Functionality</h3>
-  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2020.40.46.png" width="250" alt="Search Screen">
-  <p>The Search screen allows users to find recipes by name, ingredients, or cuisine type.</p>
+  <h3>Initial Loading Screen</h3>
+  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2019.55.19.png" width="250" alt="Initial Loading Screen">
+  <p>The app's initial loading screen when first launched.</p>
   
   <h3>Login Screen</h3>
-  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-06-25%20at%2020.36.31.png" width="250" alt="Login Screen">
+  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2019.55.59.png" width="250" alt="Login Screen">
   <p>The Login screen provides secure authentication for users.</p>
   
-  <h3>Profile View</h3>
-  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-06-25%20at%2021.55.25.png" width="250" alt="Profile View">
-  <p>The Profile view allows users to manage their account.</p>
+  <h3>Favorites Screen</h3>
+  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2020.40.46.png" width="250" alt="Favorites Screen">
+  <p>The Favorites screen displays the user's saved recipes.</p>
   
-  <h3>Real Device Screenshots</h3>
+  <h3>Featured Recipes</h3>
+  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-06-25%20at%2020.36.31.png" width="250" alt="Featured Recipes Screen">
+  <p>The Featured Recipes screen displays a curated selection of recipes for users to explore.</p>
+  
+  <h3>Search Screen with Filters</h3>
+  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-06-25%20at%2021.55.25.png" width="250" alt="Search Screen with Filters">
+  <p>The Search screen allows users to find recipes by name, ingredients, or cuisine type with filtering options.</p>
+  
+  <h3>Real Device Screenshots - Recipe Details</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="Screenshots/IMG_5116.PNG" width="250" alt="Real Device - Featured Recipes">
+    <img src="Screenshots/IMG_5116.PNG" width="250" alt="Real Device - Recipe Detail">
     <img src="Screenshots/IMG_5117.PNG" width="250" alt="Real Device - Recipe Detail">
-    <img src="Screenshots/IMG_5120.PNG" width="250" alt="Real Device - Search">
+    <img src="Screenshots/IMG_5120.PNG" width="250" alt="Real Device - Recipe Detail">
   </div>
-  <p>Forkly running on a real iOS device.</p>
+  <p>Recipe detail screens running on a real iOS device.</p>
 </div>
 
 To add new screenshots:
