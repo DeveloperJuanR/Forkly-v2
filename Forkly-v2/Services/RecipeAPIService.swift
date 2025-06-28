@@ -498,9 +498,9 @@ class RecipeAPIService {
         
         urlComponents.queryItems = [
             URLQueryItem(name: "apiKey", value: apiKey),
-            URLQueryItem(name: "number", value: "5"),
-            URLQueryItem(name: "sort", value: "random"),
-            URLQueryItem(name: "addRecipeInformation", value: "true")
+            URLQueryItem(name: "limitLicense", value: "false"),
+            URLQueryItem(name: "tags", value: ""),
+            URLQueryItem(name: "number", value: "5")
         ]
         
         guard let url = urlComponents.url else {
