@@ -28,8 +28,7 @@ This evolution represents a significant step forward in both functionality and c
 - **Unit Tests**: Comprehensive test suite for ViewModels and business logic
 
 ## Live Demo
-[
-](https://youtube.com/shorts/4uV8Max4Z3g?si=iQDNe1CkpZA3GzZ0)
+https://youtube.com/shorts/4uV8Max4Z3g?si=iQDNe1CkpZA3GzZ0
 
 ## Screenshots
 
